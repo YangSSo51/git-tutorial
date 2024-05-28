@@ -1,2 +1,4 @@
 # git-tutorial
-깃 사용법에 대한 사용 예시
+
+### Github Action
+workflow 추가하기 - [mirror.yml](https://github.com/YangSSo51/git-tutorial/blob/config/mirror/.github/workflows/mirror.yml)
